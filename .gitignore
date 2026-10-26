@@ -1,0 +1,8 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.env
+*.zip
+/deletion_requests.csv
+Interview_Prep_QA.pdf

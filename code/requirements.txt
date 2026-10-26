@@ -1,0 +1,2 @@
+pypdf>=4.0
+rapidocr-onnxruntime>=1.3
